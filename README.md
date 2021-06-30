@@ -1,2 +1,2 @@
-# myBlog
+# myblog
 博客项目
